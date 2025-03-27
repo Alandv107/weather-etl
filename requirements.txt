@@ -1,0 +1,6 @@
+pymongo
+sqlalchemy
+pandas
+numpy
+scipy
+python-dotenv
